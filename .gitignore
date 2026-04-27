@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data files
+*.parquet
+*.xlsx
+*.xls
+*.csv
+
+# Notebooks
+*.ipynb
+*.ipynb.py
+
+# AI / MCP / IDE assistants
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.cursorrules
+.windsurfrules
+.mcp.json
+.opencode.json
+.claude/
+.kiro/
+.code-review-graph/
+
+# Secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
